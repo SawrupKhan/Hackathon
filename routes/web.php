@@ -15,6 +15,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/t', function () {
+    return view('doctor');
+});
+
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

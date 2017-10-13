@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Rajshahi Medical College
                 </div>
 
                 <div class="links">
